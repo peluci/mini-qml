@@ -23,5 +23,6 @@ Describing a grammar in EBNF to make the parsing of the Programming Language.
 
 # Running the project
 To run the project, use the following command:
+```
 java mdi examples/teste.qml
-
+```
